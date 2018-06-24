@@ -1,2 +1,1 @@
-# dota2storeid
-dota2storeid project
+# exploring soooooooooon
