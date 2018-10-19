@@ -1,4 +1,3 @@
 # exploring soooooooooon
 
-steamcommunity.com/id/wishihab
-@dota2storeid
+![ScreenShot](https://github.com/wishihab/dota2storeid/blob/master/img/dota2storeid.jpg)
